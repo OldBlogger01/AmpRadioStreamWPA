@@ -1,0 +1,22 @@
+   {
+    "name": "AmpRadioStreaming",
+    "short_name": "AmpRadioStreaming",
+    "icons": [
+        {
+            "src": https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUBVtLO24jmDYqQ3YmivcXxX6yxmTfbK3w6Gazr4oaVAm_xfbD2zyUKJDaqJdc-oa7MOw7uiF3O9ZNpYO9DvtcGPUb-mXol4SKhriavUS5vidxzHN7sKQXp40L4Sx_RykGCkqpf393hFlCDNOT1KhrDRIWpI-eCqMv37Ljq9Z1Rqjr1WROYn0XD9CLsFA/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1dBOkdyGmcw1vMRcsySqPdo2xzKMHGik5l0j-gxN1jqJdgTlJZVuceij1OU6d7yRCV4rAgcsA3rmzAIZNLYAppHjAg6k6sokcLh__TweD5Bda2mYTXfNdxzMjZeZMZOB5wvc0qXyrPA7B1TWVvaO27YY1FneQcTKlON7vWD1hHXR23h5u4kGWwfaCEFQ/s16000/android-chrome-512x512.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://amp-radio-stream.blogspot.com"
+}
